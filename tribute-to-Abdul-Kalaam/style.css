@@ -1,0 +1,25 @@
+<style>
+    img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+    h1  {
+  padding: 30px;
+  text-align: center;
+  background: #292b2b;
+  color: white;
+  font-size: 30px;
+}
+    p {text-align: justify;}
+    div {text-align: center;}
+    footer {
+  
+  padding: 7px;
+  background-color: rgb(17, 10, 47);
+  color: rgb(177, 179, 184);
+  font-style: italic;
+  font-size: 18px;
+}
+    </style>
